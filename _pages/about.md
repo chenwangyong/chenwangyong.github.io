@@ -12,8 +12,7 @@ Associate Professor, Sun Yat-sen University
 
 Academic Experience
 ======
-Ph.D., Institute of Microelectronics, Peking University, China, 2021.
-
+Ph.D., Institute of Microelectronics, Peking University, China, 2021.  
 B.S., School of Physics and Microelectronic Science, Hunan University, China, 2016.
 
 Research Interests
