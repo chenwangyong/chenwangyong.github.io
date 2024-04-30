@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Associate Professor, Sun Yat-sen University"
+title: "Job title"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Associate Professor, Sun Yat-sen University
 
 ------
 
 Academic Experience
 ======
-Ph.D., Institute of Microelectronics, Peking University, Beijing, China 2021 
+Ph.D., Institute of Microelectronics, Peking University, Beijing, China 2021
+
 B.S., School of Physics and Microelectronic Science, Hunan University, Changsha, China 2016
 
 Research Interests
