@@ -25,10 +25,10 @@ author:
   name             : "Wangyong Chen"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at Sun Yat-sen University"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Guangdong"
+  employer         : "Sun Yat-sen University"
+  uri              : https://chenwangyong.github.io
+  email            : "chenwangy@mail.sysu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
