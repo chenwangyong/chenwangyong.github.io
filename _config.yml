@@ -27,7 +27,7 @@ author:
   bio              : "Associate Professor"
   location         : "Guangdong"
   employer         : "Sun Yat-sen University"
-  uri              : "https://chenwangyong.github.io"
+  uri              : https://chenwangyong.github.io/
   email            : "chenwangy@mail.sysu.edu.cn" 
 
   # Academic websites
