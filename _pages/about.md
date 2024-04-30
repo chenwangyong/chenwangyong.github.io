@@ -1,6 +1,11 @@
-Associate Professor, Sun Yat-sen University. 
-======
-------
+---
+permalink: /
+title: "Associate Professor, Sun Yat-sen University"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Academic Experience
 ======
