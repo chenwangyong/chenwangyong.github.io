@@ -17,7 +17,9 @@ B.S., School of Physics and Microelectronic Science, Hunan University, China, in
 
 Research Interests
 ======
-AI-assisted device modeling and design technology co-optimization (DTCO), thermal monitor and management, reliability aware modeling and design methodology for the post-Moore era.
+1. AI-assisted device modeling and design technology co-optimization (DTCO)  
+2. Thermal monitor and management  
+3. Reliability aware modeling and design methodology for the post-Moore era  
 
 Academic Achievements
 ======
