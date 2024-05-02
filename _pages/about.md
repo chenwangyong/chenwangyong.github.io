@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Associate Professor, School of Microelectronics Science and Technology, Sun Yat-sen University.
+Associate Professor, [School of Microelectronics Science and Technology](https://mst.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
 ------
 
