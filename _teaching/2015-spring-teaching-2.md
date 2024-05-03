@@ -1,20 +1,32 @@
 ---
 title: "固体物理(Solid State Physics)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course: 2rd year"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Sun Yat-sen University, School of Microelectronics Science and Technology"
-date: 2021-01-01
+date: Spring semester
 location: "Zhuhai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an outline for this course. You can find the corresponding teaching materials.
 
-Heading 1
+Chapter 1: 从经典迈向量子
 ======
 
-Heading 2
+Chapter 2: 量子自由电子气
 ======
 
-Heading 3
+Chapter 3: 晶体结构
+======
+
+Chapter 4: 能带理论
+======
+
+Chapter 5: 固体结合
+======
+
+Chapter 6: 晶格振动
+======
+
+Chapter 7: 粒子输运
 ======
