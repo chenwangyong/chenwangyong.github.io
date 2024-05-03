@@ -1,10 +1,10 @@
 ---
-title: "固体物理(Solid State Physics)"
+title: "固体物理 (Solid State Physics)"
 collection: teaching
-type: "Undergraduate course: 2rd year"
-permalink: /teaching/2015-spring-teaching-1
+type: "Undergraduate course: 2nd year"
+permalink: /teaching/2015-spring-teaching-2
 venue: "Sun Yat-sen University, School of Microelectronics Science and Technology"
-date: 2024
+date: Spring semester
 location: "Zhuhai, China"
 ---
 
@@ -30,3 +30,4 @@ Chapter 6: 晶格振动
 
 Chapter 7: 粒子输运
 ======
+
