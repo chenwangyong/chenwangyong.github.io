@@ -20,6 +20,8 @@ author_profile: true
 2024
 ---
 1. L. Cai, Y. Chen, H. Zhang, J. Lin, and **W. Chen**\*, “Insight Into Electromigration Reliability of Buried Power Rail With Alternative Metal Material,” IEEE Trans. Electron Devices, vol. 71, no. 1, pp. 418–424, Jan. 2024, doi: 10.1109/TED.2023.3336275.
+2. X. Chen, **W. Chen**, Y. Lu, J. Liu, K. Zhang, and Q. Hu, “Effects of deep-level defects on the current distortion of CZT γ-ray detector under temporal response,” IEEE Trans. Nucl. Sci., pp. 1–1, 2024, doi: 10.1109/TNS.2024.3382169.
+
 
 2023
 ---
@@ -40,4 +42,25 @@ author_profile: true
 1. Y. Lyu, **W. Chen**\*, M. Zheng, B. Yin, J. Li, and L. Cai, “Machine Learning Assisted Nanoscale Device Modeling for Nanosheet FETs with Process Variations,” in 2022 IEEE Silicon Nanoelectronics Workshop (SNW), Jun. 2022, pp. 1–2, doi: 10.1109/SNW56633.2022.9889011.
 2. B. Liang, D. Luo, Q. Sun, and **W. Chen**\*, “Layout based radiation hardening techniques against single-event transient,” Microelectronics Reliability, vol. 135, p. 114572, Aug. 2022, doi: 10.1016/j.microrel.2022.114572.
 3. L. Cai, M. Zheng, Y. Lyu, and **W. Chen**\*, “Thermal-Aware EM Reliability for Advanced Metal Interconnects of Complementary FET,” IEEE Transactions on Electron Devices, pp. 1–6, 2022, doi: 10.1109/TED.2022.3157578.
+4. S. Zhao, L. Cai, **W. Chen**, Y. He, and G. Du, “Self-Heating and Thermal Network Model for Complementary FET,” IEEE Transactions on Electron Devices, vol. 69, no. 1, pp. 11–16, Jan. 2022, doi: 10.1109/TED.2021.3130010.
+
+2018-2021
+---
+1. **W. Chen** et al., “Thermal Crosstalk Characterization Using Temperature Dependent Leakage Current Through Gate Stacks,” IEEE Electron Device Letters, vol. 42, no. 6, pp. 792–795, Jun. 2021, doi: 10.1109/LED.2021.3075695.
+2. **W. Chen**, L. Cai, X. Liu, and G. Du, “Analytical Model for Interface Traps-Dependent Back Bias Capability and Variability in Ultrathin Body and Box FDSOI MOSFETs,” IEEE Transactions on Electron Devices, pp. 1–5, 2020, doi: 10.1109/ted.2020.3025979.
+3. **W. Chen** et al., “New Measurement Method for Self-Heating in Silicon-on-Insulator MOSFETs Based on Shared Series Resistance,” IEEE Electron Device Letters, vol. 41, no. 2, pp. 212–215, Feb. 2020, doi: 10.1109/led.2019.2962913.
+4. **W. Chen**, L. Cai, K. Wang, X. Zhang, X. Liu, and G. Du, “Statistical simulation of self-heating induced variability and reliability with application to Nanosheet-FETs based SRAM,” Microelectronics Reliability, vol. 98, pp. 63–68, Jul. 2019, doi: 10.1016/j.microrel.2019.04.014.
+5. **W. Chen**, L. Cai, X. Liu, and G. Du, “Trap Dynamics based 3D Kinetic Monte Carlo Simulation for Reliability Evaluation of UTBB MOSFETs,” in 2019 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Sep. 2019, pp. 1–4. doi: 10.1109/SISPAD.2019.8870505.
+6. **W. Chen** et al., “Investigation of PBTI Degradation in Nanosheet nFETs With HfO2 Gate Dielectric by 3D-KMC Method,” IEEE Trans. on Nanotechnology, vol. 18, pp. 385–391, 2019, doi: 10.1109/tnano.2019.2909951.
+7. **W. Chen** et al., “Investigation of degradation under arbitrary bias conditions in HfO2 based nanosheet nFETs by 3D kinetic Monte-Carlo method,” Jpn. J. Appl. Phys., vol. 58, no. SB, p. SBBA13, Apr. 2019, doi: 10.7567/1347-4065/ab073c.
+8. **W. Chen**, L. Cai, G. Du, and X. Liu, “Efficient Variability- and Reliability-aware Device-Circuit Co-Design: From Trap Behaviors to Circuit Performance,” in 2019 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA: IEEE, Dec. 2019, p. 39.2.1-39.2.4. doi: 10.1109/iedm19573.2019.8993640.
+9. **W. Chen** et al., “Experiment Characterization of Front and Back Interfaces Impact on Back Gate Modulation in UTBB-FDSOI MOSFETs,” in 2019 IEEE 26th International Symposium on Physical and Failure Analysis of Integrated Circuits (IPFA), Hangzhou, China: IEEE, Jul. 2019, pp. 1–4. doi: 10.1109/ipfa47161.2019.8984894.
+10. **W. Chen**, Y. Li, L. Cai, P. Chang, G. Du, and X. Liu, “Entire Bias Space Statistical Reliability Simulation By 3D-KMC Method and Its Application to the Reliability Assessment of Nanosheet FETs based Circuits,” in 2018 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA: IEEE, Dec. 2018, p. 33.5.1-33.5.4. doi: 10.1109/iedm.2018.8614689.
+11. **W. Chen**, L. Cai, K. Zhao, X. Zhang, X. Liu, and G. Du, “Analytical Multistage Thermal Model for FEOL Reliability Considering Self-and Mutual-Heating,” IEEE Transactions on Electron Devices, vol. 65, no. 9, pp. 3633–3639, Sep. 2018, doi: 10.1109/ted.2018.2853713.
+12. **W. Chen**, L. Cai, K. Wang, X. Zhang, X. Liu, and G. Du, “Self-heating induced Variability and Reliability in Nanosheet-FETs Based SRAM,” in 2018 IEEE International Symposium on the Physical and Failure Analysis of Integrated Circuits (IPFA), Singapore: IEEE, Jul. 2018, pp. 1–4. doi: 10.1109/ipfa.2018.8452601.
+13. **W. Chen**, L. Cai, K. Wang, X. Zhang, X. Liu, and G. Du, “Accurate self-heating assessment employing multi-stage thermal RC network,” in 2018 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA), Hsinchu: IEEE, Apr. 2018, pp. 1–2. doi: 10.1109/vlsi-tsa.2018.8403838.
+14. **W. Chen** et al., “Investigation of Full Bias Space Degradation in Nanosheet nFETs with HfO2 Gate Dielectric by 3D-KMC Method,” in Extended Abstracts of the 2018 International Conference on Solid State Devices and Materials, Hongo Campus, The University of Tokyo, Tokyo, Japan: The Japan Society of Applied Physics, Sep. 2018. doi: 10.7567/ssdm.2018.c-1-02.
+
+
+
 
