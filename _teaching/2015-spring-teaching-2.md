@@ -2,7 +2,7 @@
 title: "固体物理 (Solid State Physics)"
 collection: teaching
 type: "Undergraduate course: 2nd year"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-1
 venue: "Sun Yat-sen University, School of Microelectronics Science and Technology"
 date: 2024-01-01
 location: "Zhuhai, China"
