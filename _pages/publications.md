@@ -19,7 +19,7 @@ author_profile: true
 
 2024
 ---
-1. L. Cai, Y. Chen, H. Zhang, J. Lin, and **W. Chen**\*, “Insight Into Electromigration Reliability of Buried Power Rail With Alternative Metal Material,” IEEE Trans. Electron Devices, vol. 71, no. 1, pp. 418–424, Jan. 2024, doi: 10.1109/TED.2023.3336275.
+1. L. Cai, Y. Chen, H. Zhang, J. Lin, and **W. Chen**\*, “Insight Into Electromigration Reliability of Buried Power Rail With Alternative Metal Material,” IEEE Transactions on Electron Devices, vol. 71, no. 1, pp. 418–424, Jan. 2024, doi: 10.1109/TED.2023.3336275.
 2. X. Chen, **W. Chen**, Y. Lu, J. Liu, K. Zhang, and Q. Hu, “Effects of deep-level defects on the current distortion of CZT γ-ray detector under temporal response,” IEEE Trans. Nucl. Sci., pp. 1–1, 2024, doi: 10.1109/TNS.2024.3382169.
 
 
