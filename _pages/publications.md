@@ -9,6 +9,12 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 2024
 ---
 1. L. Cai, Y. Chen, H. Zhang, J. Lin, and W. Chen, “Insight Into Electromigration Reliability of Buried Power Rail With Alternative Metal Material,” IEEE Trans. Electron Devices, vol. 71, no. 1, pp. 418–424, Jan. 2024, doi: 10.1109/TED.2023.3336275.
@@ -32,10 +38,4 @@ author_profile: true
 1. Y. Lyu, W. Chen, M. Zheng, B. Yin, J. Li, and L. Cai, “Machine Learning Assisted Nanoscale Device Modeling for Nanosheet FETs with Process Variations,” in 2022 IEEE Silicon Nanoelectronics Workshop (SNW), Jun. 2022, pp. 1–2, doi: 10.1109/SNW56633.2022.9889011.
 2. B. Liang, D. Luo, Q. Sun, and W. Chen, “Layout based radiation hardening techniques against single-event transient,” Microelectronics Reliability, vol. 135, p. 114572, Aug. 2022, doi: 10.1016/j.microrel.2022.114572.
 3. L. Cai, M. Zheng, Y. Lyu, and W. Chen, “Thermal-Aware EM Reliability for Advanced Metal Interconnects of Complementary FET,” IEEE Transactions on Electron Devices, pp. 1–6, 2022, doi: 10.1109/TED.2022.3157578.
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
