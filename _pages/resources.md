@@ -22,6 +22,7 @@ redirect_from:
  * [Silicon Integration Initiative (Si2)](https://si2.org/)  
  * [BSIM Group](http://bsim.berkeley.edu/)  
  * [Verilog-A Models](https://github.com/dwarning/VA-Models)
+ * [MOS-AK](https://www.mos-ak.org/)
 
 ## Open Standards for Microelectronics Industry
  * [JEDEC](https://www.jedec.org/)  
