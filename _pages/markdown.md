@@ -12,6 +12,7 @@ redirect_from:
  * [EDA Wiki](https://openbelt.org.cn/wiki/)
  * [Open Circuit Design](http://opencircuitdesign.com/)
  * [OpenCores](https://opencores.org/projects)
+ * [OpenROAD](https://theopenroadproject.org/)
  * [TCAD Central](https://tcadcentral.com/)
 
 ## Device Model
