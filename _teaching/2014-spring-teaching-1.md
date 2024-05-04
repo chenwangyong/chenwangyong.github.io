@@ -19,17 +19,17 @@ Chapter 2: EDA分类、行业现状及发展趋势
 Chapter 3: EDA产商及常用工具
 ---
 
-Chapter 4: TCAD：工艺仿真
+Chapter 4: TCAD—工艺仿真
 ---
 
-Chapter 5: TCAD：结构编辑器
+Chapter 5: TCAD—结构编辑器
 ---
 
-Chapter 6: TCAD：器件仿真
+Chapter 6: TCAD—器件仿真
 ---
 
-Chapter 7: TCAD：可视化
+Chapter 7: TCAD—数据可视化
 ---
 
-Chapter 8: TCAD：实例展示
+Chapter 8: TCAD—实例展示
 ---
