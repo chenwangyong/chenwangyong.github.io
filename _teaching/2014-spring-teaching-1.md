@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Zhuhai, China"
 ---
 
-This is an outline for this course. You can find the corresponding teaching materials.
+This is an outline for this course. You can find the corresponding teaching materials from the [online teaching platform](https://lms.sysu.edu.cn/).
 
 Chapter 1
 ======
