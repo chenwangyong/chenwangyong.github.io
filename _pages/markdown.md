@@ -20,15 +20,6 @@ redirect_from:
  * [BSIM Group](http://bsim.berkeley.edu/)  
  * [Verilog-A Models](https://github.com/dwarning/VA-Models)  
 
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
 ## MathJax 
 
 Support for MathJax Version 3.0 is included in the template:
