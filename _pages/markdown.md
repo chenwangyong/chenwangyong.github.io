@@ -15,7 +15,7 @@ redirect_from:
  * [OpenROAD](https://theopenroadproject.org/)
  * [TCAD Central](https://tcadcentral.com/)
  * [Geant4](https://geant4.web.cern.ch/)
- * [SRIM](http://www.srim.org/SRIM/SRIMLEGL.htm)
+ * [SRIM](http://www.srim.org/)
 
 ## Device Model
  * [Silicon Integration Initiative (Si2)](https://si2.org/)  
