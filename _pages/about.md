@@ -32,10 +32,10 @@ Service
 ======
 + IEEE Member & EDS Member
 + IEEE Young Professionals
-+ A key member of Guangdong Key Laboratory of Optoelectronic Information Processing Chips and Systems
-+ Active Reviewer of IEEE T-ED (Gold Reviewer), JEDS, TCAS-I, EDL Journals
 + Chinese Institute of Electronics (CIE) Member
 + China Computer Federation (CCF) Member
++ Active Reviewer of IEEE T-ED (Gold Reviewer), JEDS, TCAS-I, EDL Journals
++ Guangdong Key Laboratory of Optoelectronic Information Processing Chips and Systems Member
 
 News
 ======
