@@ -10,6 +10,7 @@ redirect_from:
 ## Open-source EDA Tools and Resources
  * [Synopsys University EDA courses](https://www.synopsys.com/academic-research/university.html#ic-design-curriculum)
  * [EDA Wiki](https://openbelt.org.cn/wiki/)
+ * [AI for EDA](https://ai4eda.github.io/)
  * [Open Circuit Design](http://opencircuitdesign.com/)
  * [OpenCores](https://opencores.org/projects)
  * [OpenROAD](https://theopenroadproject.org/)
