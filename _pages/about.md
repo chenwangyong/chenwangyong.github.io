@@ -39,5 +39,5 @@ Service
 
 News
 ======
-+ May. 2024: Journal paper is accepted to T-ED. Congratulations to Yaoyang Lyu and all the collaborators and sponsors!
-+ Mar. 2024: 4 conference papers are accepted to ISEDA2024. Congratulations to Yutao Chen, Binyu Yin, Ling Xiong, Zhengxin Zhang and all the collaborators and sponsors!
++ May. 2024: Journal paper is accepted by T-ED. Congratulations to Yaoyang Lyu and all the collaborators and sponsors!
++ Mar. 2024: 4 conference papers are accepted by ISEDA2024. Congratulations to Yutao Chen, Binyu Yin, Ling Xiong, Zhengxin Zhang and all the collaborators and sponsors!
