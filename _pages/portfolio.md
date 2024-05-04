@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}  
-<!![RedaMsc](/images/group.jpg)>
+<!--![RedaMsc](/images/group.jpg)-->
 
 ## Master
 
