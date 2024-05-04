@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "电子设计自动化 (Electron Design Automation)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course: 3rd"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Sun Yat-sen University, School of Microelectronics Science and Technology"
 date: 2014-01-01
-location: "City, Country"
+location: "Zhuhai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an outline for this course. You can find the corresponding teaching materials.
 
-Heading 1
+Chapter 1
 ======
 
-Heading 2
+Chapter 2
 ======
 
-Heading 3
+Chapter 3
 ======
