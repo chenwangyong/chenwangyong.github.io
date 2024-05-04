@@ -4,7 +4,7 @@ title: "Resources"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /resources.html
 ---
 
 ## Open-source EDA Tools and Resources
