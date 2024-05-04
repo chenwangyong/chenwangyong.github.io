@@ -7,30 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-## Tables
+## Master
 
-### Table 1
+|  Student Name    | Enrollment |  Research Interests                                          |
+|:----------------:|:-----------------------:|:------------------------------------------------------------:|
+|   Ling Xiong    |      2023.09   | Reliability-aware Design Technology Co-optimization  |
+|   Zhengxin Zhang  |    2023.09   | Radiation Hardening for Stacked Device Technology |
+|   Binyu Yin    |      2023.09 | Electromigration Modeling and Simulation  |
+|   Jiahui Chen   |      2022.09  | Design and Optimization of MWIR Detector                  |
+|   Haifeng Chen  |      2022.09   | Thermal Modeling and Monitoring  |
+|   Jianwen Lin    |      2022.09  | Machine Learning assisted Radiation Effects Modeling |
+|   Haoyu Zhang    |      2022.09   | Advanced Interconnect Soultion for BEOL  |
+|   Yaoyang Lyu    |      2021.09   | Machine Learning assisted Device Modeling                  |
+|   Mingyue Zheng  |      2021.09 | Temperature-immune and Reliability-aware Design Method  |
+|   Yutao Chen     |      2021.09  | Single-event Effect Simulation and Radiation Hardening  |
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
+{% comment %}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+{% endcomment %}
 
