@@ -1,11 +1,15 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Resources"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+## EDA related Resources
+ * [Synopsys University EDA courses](https://www.synopsys.com/academic-research/university.html#ic-design-curriculum)
+ * [EDA Wiki](https://openbelt.org.cn/wiki/)
 
 ## Locations of key files/directories
 
@@ -30,10 +34,6 @@ redirect_from:
   * Orange circle: building
   * Red X: error
   * No icon: not built
-
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
 ## MathJax 
 
