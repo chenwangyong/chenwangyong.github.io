@@ -14,11 +14,16 @@ redirect_from:
  * [OpenCores](https://opencores.org/projects)
  * [OpenROAD](https://theopenroadproject.org/)
  * [TCAD Central](https://tcadcentral.com/)
+ * [Geant4](https://geant4.web.cern.ch/)
+ * [SRIM](http://www.srim.org/SRIM/SRIMLEGL.htm)
 
 ## Device Model
  * [Silicon Integration Initiative (Si2)](https://si2.org/)  
  * [BSIM Group](http://bsim.berkeley.edu/)  
- * [Verilog-A Models](https://github.com/dwarning/VA-Models)  
+ * [Verilog-A Models](https://github.com/dwarning/VA-Models)
+
+## Open Standards for Microelectronics Industry
+ * [JEDEC](https://www.jedec.org/)  
 
 ## MathJax 
 
