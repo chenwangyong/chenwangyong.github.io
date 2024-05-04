@@ -5,11 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% comment %}  
-![RedaMsc](/images/group.jpg)
-{% endcomment %}  
+{% include base_path %}  
+<!![RedaMsc](/images/group.jpg)>
 
 ## Master
 
