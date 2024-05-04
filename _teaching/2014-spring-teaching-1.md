@@ -1,5 +1,5 @@
 ---
-title: "电子设计自动化 (Electron Design Automation)"
+title: "电子设计自动化 (Electronic Design Automation)"
 collection: teaching
 type: "Undergraduate course: 3rd"
 permalink: /teaching/2014-spring-teaching-1
