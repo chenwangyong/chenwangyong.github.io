@@ -17,7 +17,7 @@ redirect_from:
  * [Geant4](https://geant4.web.cern.ch/)
  * [SRIM](http://www.srim.org/)
 
-## Device Model
+## Device Models
  * [Silicon Integration Initiative (Si2)](https://si2.org/)  
  * [BSIM Group](http://bsim.berkeley.edu/)  
  * [Verilog-A Models](https://github.com/dwarning/VA-Models)
