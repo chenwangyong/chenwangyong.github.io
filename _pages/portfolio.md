@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+![RedaMsc](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
 ## Master
 
 |  Student Name    | Enrollment |  Research Interests                                          |
