@@ -7,24 +7,17 @@ redirect_from:
   - /markdown.html
 ---
 
-## EDA related Resources
+## Open-source EDA Tools and Resources
  * [Synopsys University EDA courses](https://www.synopsys.com/academic-research/university.html#ic-design-curriculum)
  * [EDA Wiki](https://openbelt.org.cn/wiki/)
+ * [Open Circuit Design](http://opencircuitdesign.com/)
+ * [OpenCores](https://opencores.org/projects)
+ * [TCAD Central](https://tcadcentral.com/)
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+## Device Model
+ * [Silicon Integration Initiative (Si2)](https://si2.org/)  
+ * [BSIM Group](http://bsim.berkeley.edu/)  
+ * [Verilog-A Models](https://github.com/dwarning/VA-Models)  
 
 ## Tips and hints
 
