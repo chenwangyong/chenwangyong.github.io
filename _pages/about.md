@@ -37,9 +37,11 @@ Service
 + Active Reviewer of IEEE T-ED (Gold Reviewer), JEDS, TCAS-I, EDL Journals
 + Guangdong Key Laboratory of Optoelectronic Information Processing Chips and Systems Member
 
-News
+🔥News
 ======
 + May. 2024: Journal paper is accepted by T-ED. Congratulations to Yaoyang Lyu and all the collaborators and sponsors!
 + Mar. 2024: 4 conference papers are accepted by ISEDA2024. Congratulations to Yutao Chen, Binyu Yin, Ling Xiong, Zhengxin Zhang and all the collaborators and sponsors!
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+Total <span id="busuanzi_value_site_pv"></span> views.
+<span id="busuanzi_container_site_pv"> 本站总访问量.
+<span id="busuanzi_value_page_pv"></span> Hits.
