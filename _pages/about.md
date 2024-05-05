@@ -42,6 +42,5 @@ Service
 + May. 2024: Journal paper is accepted by T-ED. Congratulations to Yaoyang Lyu and all the collaborators and sponsors!
 + Mar. 2024: 4 conference papers are accepted by ISEDA2024. Congratulations to Yutao Chen, Binyu Yin, Ling Xiong, Zhengxin Zhang and all the collaborators and sponsors!
 
-Total <span id="busuanzi_value_site_pv"></span> views.
-<span id="busuanzi_container_site_pv"> 本站总访问量.
-<span id="busuanzi_value_page_pv"></span> Hits.
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<span id="busuanzi_value_page_pv">总访问量：<i class="fa fa-spinner fa-spin"></i>次</span>
