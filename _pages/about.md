@@ -39,8 +39,10 @@ Service
 
 🔥News
 ======
-+ May. 2024: Journal paper is accepted by T-ED. Congratulations to Yaoyang Lyu and all the collaborators and sponsors!
-+ Mar. 2024: 4 conference papers are accepted by ISEDA2024. Congratulations to Yutao Chen, Binyu Yin, Ling Xiong, Zhengxin Zhang and all the collaborators and sponsors!
++ Jul. 2024: Journal paper is accepted by IEEE Transactions on Components, Packaging, and Manufacturing (TCPMT) Journal. Congratulations to Haifeng Chen and all the collaborators and sponsors!
++ Jul. 2024: Journal paper is accepted by IEEE Photonics Journal. Congratulations to Jiahui Chen and all the collaborators and sponsors!
++ May. 2024: Journal paper is accepted by IEEE Transactions on Electron Devices (T-ED). Congratulations to Yaoyang Lyu and all the collaborators and sponsors!
++ Mar. 2024: 4 conference papers are accepted by IEEE ISEDA2024. Congratulations to Yutao Chen, Binyu Yin, Ling Xiong, Zhengxin Zhang and all the collaborators and sponsors!
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 🐾<span id="busuanzi_container_site_pv">Total views: <span id="busuanzi_value_site_pv"></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
