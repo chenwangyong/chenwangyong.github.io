@@ -12,6 +12,11 @@ author_profile: true
 
 |  Name    | Enrollment |  Research Interests                                          |
 |:----------------:|:-----------------------:|:------------------------------------------------------------:|
+|   **Weizhi Li**    |      2024.09   | Thermal Management in FPGA and 3DIC  |
+|   **Songxuan He**    |      2024.09   | Design and Methodology for Circuit Aging  |
+|   **Chuhao Chen**    |      2024.09   | Radiation aware EDA  |
+|   **Minghui Dong**    |      2024.09   | Parameter Extraction and AI assisted Device Modeling  |
+|   **Runsheng Liu**    |      2024.09   | Reliability based Hardware Trojan  |
 |   **Ling Xiong**    |      2023.09   | Reliability-aware Design Technology Co-optimization  |
 |   **Zhengxin Zhang**  |    2023.09   | Radiation Hardening for Stacked Device Technology |
 |   **Binyu Yin**    |      2023.09 | Electromigration Modeling and Simulation  |
